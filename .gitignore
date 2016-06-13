@@ -1,0 +1,14 @@
+*.pyc
+*.JPG
+*.map
+*.npz
+.ipynb_checkpoints
+*Images*
+data/*.jpg
+data/*.jpeg
+data/test/*.jpg
+data/test/*.png
+data/test/*.gif
+data/downloaded/*.jpg
+data/downloaded/*.png
+data/downloaded/*.gif
